@@ -15,7 +15,9 @@ def divide(a, b):
     return a / b
 
 
-print("Simple Calculator - Developer 1 Version")
+
+print("Simple Calculator - Combined Version")
+
 print("Addition:", add(10, 5))
 print("Subtraction:", subtract(10, 5))
 print("Multiplication:", multiply(10, 5))
